@@ -49,7 +49,7 @@ O código corporativo fica em repositórios privados desta organização, com ac
 
 <br>
 
-<table width="100%" border="0">
+<table align="center" border="0">
   <tr>
     <td width="64" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/diaselima-tech/.github/main/profile/assets/brasao-azul.png" alt="Brasão Dias & Lima" width="44">
