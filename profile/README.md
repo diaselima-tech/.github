@@ -5,19 +5,18 @@
   </picture>
 </p>
 
-<h3 align="center">Inovação e Tecnologia</h3>
+<h2 align="center">Inovação e Tecnologia</h2>
 
 <p align="center">
-  Sistemas, integrações e automações que sustentam a operação do escritório <strong>Dias & Lima Advogados Associados</strong>.
+  Sistemas, integrações e automações que sustentam a operação do escritório<br>
+  <strong>Dias & Lima Advogados Associados</strong>
 </p>
 
 <p align="center">
-  <img alt="Setor" src="https://img.shields.io/badge/setor-Inova%C3%A7%C3%A3o%20e%20Tecnologia-1A2B44?style=flat-square">
-  <img alt="Organização" src="https://img.shields.io/badge/organiza%C3%A7%C3%A3o-Dias%20%26%20Lima-D08F5A?style=flat-square">
-  <img alt="Código" src="https://img.shields.io/badge/c%C3%B3digo-reposit%C3%B3rios%20privados-959596?style=flat-square">
+  <img alt="Setor: Inovação e Tecnologia" src="https://img.shields.io/badge/Setor-Inova%C3%A7%C3%A3o%20e%20Tecnologia-1A2B44?style=for-the-badge">&nbsp;&nbsp;<img alt="Organização: Dias & Lima" src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-Dias%20%26%20Lima-D08F5A?style=for-the-badge">&nbsp;&nbsp;<img alt="Código: repositórios privados" src="https://img.shields.io/badge/C%C3%B3digo-Reposit%C3%B3rios%20privados-959596?style=for-the-badge">
 </p>
 
----
+<br>
 
 ## Quem somos
 
@@ -36,25 +35,33 @@ O foco é a operação jurídica. Cada projeto nasce de uma necessidade concreta
 | **Modernização** | Migração e reescrita de aplicações legadas para arquiteturas atuais. |
 | **Observabilidade e infraestrutura** | Monitoramento, logs, métricas e ambiente de execução das aplicações. |
 
+## Como trabalhamos
+
+**Sigilo em primeiro lugar.** Um escritório de advocacia lida com informação sensível de clientes e processos. Controle de acesso, segregação de ambientes e proteção de credenciais fazem parte de todo projeto, e não de uma etapa final.
+
+**Perto de quem usa.** As soluções são construídas junto com as equipes que vão operá-las. Entregas curtas e frequentes permitem ajustar o rumo antes que o esforço se acumule.
+
+**Manutenção como parte do produto.** Todo sistema em produção tem monitoramento, documentação e um responsável. O que não pode ser mantido não entra no ar.
+
 ## Repositórios
 
 O código corporativo fica em repositórios privados desta organização, com acesso restrito à equipe. Projetos só se tornam públicos quando há decisão expressa de publicação, e nesse caso trazem a própria documentação e licença.
 
-## Identidade visual
-
-Os projetos do setor seguem o guia de marca da Dias & Lima. Referência rápida para quem constrói interfaces internas:
-
-| Uso | Cor | Hex |
-| --- | --- | --- |
-| Principal | Azul | `#1A2B44` |
-| Destaque | Laranja | `#D08F5A` |
-| Apoio | Cinza | `#959596` |
-
-Tipografia: **Manrope** para corpo de texto e **Crimson** para títulos e realces. A logo não deve ser recolorida fora do azul e do laranja, distorcida ou combinada com elementos que não pertencem à marca.
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diaselima-tech/.github/main/profile/assets/brasao-azul.png" alt="Brasão Dias & Lima" width="48"><br>
-  <sub>Dias & Lima Advogados Associados · Inovação e Tecnologia</sub>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle" width="80">
+      <img src="https://raw.githubusercontent.com/diaselima-tech/.github/main/profile/assets/brasao-azul.png" alt="Brasão Dias & Lima" width="56">
+    </td>
+    <td valign="middle">
+      <strong>Dias & Lima Advogados Associados</strong><br>
+      <sub>Setor de Inovação e Tecnologia</sub><br>
+      <sub>Repositórios e projetos institucionais mantidos pela equipe de tecnologia do escritório.</sub>
+    </td>
+  </tr>
+</table>
+
+---
