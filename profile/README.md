@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Setor: Inovação e Tecnologia" src="https://img.shields.io/badge/Setor-Inova%C3%A7%C3%A3o%20e%20Tecnologia-1A2B44?style=for-the-badge">&nbsp;&nbsp;<img alt="Organização: Dias & Lima" src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-Dias%20%26%20Lima-D08F5A?style=for-the-badge">&nbsp;&nbsp;<img alt="Código: repositórios privados" src="https://img.shields.io/badge/C%C3%B3digo-Reposit%C3%B3rios%20privados-959596?style=for-the-badge">
+  <img alt="Setor: Inovação e Tecnologia" src="https://img.shields.io/badge/Setor-Inova%C3%A7%C3%A3o%20e%20Tecnologia-1A2B44?style=flat-square"> <img alt="Organização: Dias & Lima" src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-Dias%20%26%20Lima-D08F5A?style=flat-square"> <img alt="Código: repositórios privados" src="https://img.shields.io/badge/C%C3%B3digo-Reposit%C3%B3rios%20privados-959596?style=flat-square">
 </p>
 
 <br>
@@ -49,19 +49,18 @@ O código corporativo fica em repositórios privados desta organização, com ac
 
 <br>
 
----
-
-<table align="center" border="0">
+<table width="100%" border="0">
   <tr>
-    <td align="center" valign="middle" width="80">
-      <img src="https://raw.githubusercontent.com/diaselima-tech/.github/main/profile/assets/brasao-azul.png" alt="Brasão Dias & Lima" width="56">
+    <td width="64" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/diaselima-tech/.github/main/profile/assets/brasao-azul.png" alt="Brasão Dias & Lima" width="44">
     </td>
     <td valign="middle">
       <strong>Dias & Lima Advogados Associados</strong><br>
-      <sub>Setor de Inovação e Tecnologia</sub><br>
-      <sub>Repositórios e projetos institucionais mantidos pela equipe de tecnologia do escritório.</sub>
+      <sub>Setor de Inovação e Tecnologia</sub>
+    </td>
+    <td align="right" valign="middle">
+      <sub>Sistemas · Automações · Integrações</sub><br>
+      <sub>© 2026 Dias & Lima. Todos os direitos reservados.</sub>
     </td>
   </tr>
 </table>
-
----
