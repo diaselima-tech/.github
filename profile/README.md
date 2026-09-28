@@ -37,8 +37,6 @@ O foco é a operação jurídica. Cada projeto nasce de uma necessidade concreta
 
 ## Como trabalhamos
 
-**Sigilo em primeiro lugar.** Um escritório de advocacia lida com informação sensível de clientes e processos. Controle de acesso, segregação de ambientes e proteção de credenciais fazem parte de todo projeto, e não de uma etapa final.
-
 **Perto de quem usa.** As soluções são construídas junto com as equipes que vão operá-las. Entregas curtas e frequentes permitem ajustar o rumo antes que o esforço se acumule.
 
 **Manutenção como parte do produto.** Todo sistema em produção tem monitoramento, documentação e um responsável. O que não pode ser mantido não entra no ar.
